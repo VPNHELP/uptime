@@ -19,6 +19,18 @@ sites:
     url: $DE_4
     expectedStatusCodes:
       - 400
+  - name: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [1]
+    url: $EN_1
+    expectedStatusCodes:
+      - 400
+  - name: 🇫🇮 [1]
+    url: $FI_1
+    expectedStatusCodes:
+      - 400
+  - name: 🇫🇮 [2]
+    url: $FI_2
+    expectedStatusCodes:
+      - 400
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
