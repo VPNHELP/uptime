@@ -58,19 +58,19 @@
     "url": "$DE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-4",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 272,
-    "timeDay": 272,
-    "timeWeek": 272,
-    "timeMonth": 272,
-    "timeYear": 272,
+    "status": "up",
+    "uptime": "96.96%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "96.96%",
+    "time": 955,
+    "timeDay": 955,
+    "timeWeek": 955,
+    "timeMonth": 955,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2024-03-18": 0
+      "2024-03-18": 22
     }
   },
   {
