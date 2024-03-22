@@ -123,18 +123,19 @@
     "url": "$FI_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fi-2",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 450,
     "timeDay": 701,
     "timeWeek": 450,
     "timeMonth": 450,
     "timeYear": 450,
     "dailyMinutesDown": {
+      "2024-03-22": 0,
       "2024-03-19": 13
     }
   }
