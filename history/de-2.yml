@@ -1,7 +1,7 @@
 url: $DE_2
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-26T04:00:58.751Z
+status: up
+code: 400
+responseTime: 10189
+lastUpdated: 2024-03-26T04:38:10.828Z
 startTime: 2024-03-18T08:31:46.470Z
 generator: Upptime <https://github.com/upptime/upptime>
