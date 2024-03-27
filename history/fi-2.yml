@@ -1,7 +1,7 @@
 url: $FI_2
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-27T09:28:26.113Z
+status: up
+code: 400
+responseTime: 561
+lastUpdated: 2024-03-27T09:41:03.603Z
 startTime: 2024-03-18T08:31:50.395Z
 generator: Upptime <https://github.com/upptime/upptime>
