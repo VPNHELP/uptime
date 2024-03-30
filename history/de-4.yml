@@ -1,7 +1,7 @@
 url: $DE_4
-status: down
-code: 502
-responseTime: 3271
-lastUpdated: 2024-03-30T03:14:32.789Z
+status: up
+code: 400
+responseTime: 91
+lastUpdated: 2024-03-30T03:28:28.736Z
 startTime: 2024-03-18T08:31:48.039Z
 generator: Upptime <https://github.com/upptime/upptime>
